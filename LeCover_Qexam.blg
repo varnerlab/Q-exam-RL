@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LeCover_Qexam.aux
+The style file: ieeetr.bst
+Database file #1: lecover-q-ref.bib
+Repeated entry---line 384 of file lecover-q-ref.bib
+ : @article{olshansky2008parasympathetic
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 395 of file lecover-q-ref.bib
+ : @article{olufsen2013practical
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 406 of file lecover-q-ref.bib
+ : @article{olufsen2006modeling
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 417 of file lecover-q-ref.bib
+ : @article{ottesen1997modelling
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file lecover-q-ref.bib
+ : @article{olufsen2008modeling
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file lecover-q-ref.bib
+ : @article{negative1999reflexes
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in gando2001disseminated
+Warning--can't use both volume and number fields in olson1994regulation
+Warning--empty journal in wiman1978molecular
+Warning--empty journal in negative1999reflexes
+You've used 58 entries,
+            1876 wiz_defined-function locations,
+            849 strings with 15597 characters,
+and the built_in function-call counts, 19183 in all, are:
+= -- 1989
+> -- 756
+< -- 0
++ -- 274
+- -- 216
+* -- 1433
+:= -- 2649
+add.period$ -- 59
+call.type$ -- 58
+change.case$ -- 57
+chr.to.int$ -- 0
+cite$ -- 62
+duplicate$ -- 959
+empty$ -- 1650
+format.name$ -- 216
+if$ -- 4677
+int.to.chr$ -- 0
+int.to.str$ -- 58
+missing$ -- 59
+newline$ -- 178
+num.names$ -- 58
+pop$ -- 102
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 765
+stack$ -- 0
+substring$ -- 1538
+swap$ -- 486
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 201
+width$ -- 60
+write$ -- 618
+(There were 6 error messages)

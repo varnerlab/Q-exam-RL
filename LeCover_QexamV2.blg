@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LeCover_QexamV2.aux
+The style file: ieeetr.bst
+Database file #1: lecover-q-ref.bib
+Repeated entry---line 395 of file lecover-q-ref.bib
+ : @article{olshansky2008parasympathetic
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 406 of file lecover-q-ref.bib
+ : @article{olufsen2013practical
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 417 of file lecover-q-ref.bib
+ : @article{olufsen2006modeling
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file lecover-q-ref.bib
+ : @article{ottesen1997modelling
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 439 of file lecover-q-ref.bib
+ : @article{olufsen2008modeling
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 450 of file lecover-q-ref.bib
+ : @article{negative1999reflexes
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 940 of file lecover-q-ref.bib
+ : @article{esmon1989roles
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1057 of file lecover-q-ref.bib
+ : @article{markiewski2007complement
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1068 of file lecover-q-ref.bib
+ : @article{thomas2008saphir
+ :                          ,
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in gando2001disseminated
+Warning--can't use both volume and number fields in olson1994regulation
+Warning--empty journal in wiman1978molecular
+Warning--can't use both volume and number fields in oikonomopoulou2012interactions
+Warning--empty journal in negative1999reflexes
+You've used 67 entries,
+            1876 wiz_defined-function locations,
+            901 strings with 18690 characters,
+and the built_in function-call counts, 22156 in all, are:
+= -- 2229
+> -- 991
+< -- 0
++ -- 356
+- -- 289
+* -- 1681
+:= -- 3114
+add.period$ -- 70
+call.type$ -- 67
+change.case$ -- 65
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 1097
+empty$ -- 1865
+format.name$ -- 289
+if$ -- 5363
+int.to.chr$ -- 0
+int.to.str$ -- 67
+missing$ -- 66
+newline$ -- 207
+num.names$ -- 67
+pop$ -- 132
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 866
+stack$ -- 0
+substring$ -- 1644
+swap$ -- 553
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 222
+width$ -- 69
+write$ -- 709
+(There were 9 error messages)

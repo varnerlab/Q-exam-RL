@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: LeCover_QexamV3.aux
+The style file: plos2009.bst
+Database file #1: lecover-q-ref.bib
+Repeated entry---line 395 of file lecover-q-ref.bib
+ : @article{olshansky2008parasympathetic
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 406 of file lecover-q-ref.bib
+ : @article{olufsen2013practical
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 428 of file lecover-q-ref.bib
+ : @article{ottesen1997modelling
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 450 of file lecover-q-ref.bib
+ : @article{negative1999reflexes
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 940 of file lecover-q-ref.bib
+ : @article{esmon1989roles
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1057 of file lecover-q-ref.bib
+ : @article{markiewski2007complement
+ :                                  ,
+I'm skipping whatever remains of this entry
+Database file #2: References_v1.bib
+Repeated entry---line 15135 of file References_v1.bib
+ : @article{morad2015time
+ :                       ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+`journal' is a missing field, not a string, for entry negative1999reflexes
+while executing---line 2643 of file plos2009.bst
+Warning--empty journal in negative1999reflexes
+You've used 54 entries,
+            2441 wiz_defined-function locations,
+            938 strings with 15216 characters,
+and the built_in function-call counts, 42710 in all, are:
+= -- 3926
+> -- 741
+< -- 1
++ -- 370
+- -- 185
+* -- 3626
+:= -- 5156
+add.period$ -- 108
+call.type$ -- 54
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 109
+duplicate$ -- 4226
+empty$ -- 4413
+format.name$ -- 233
+if$ -- 9473
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 562
+newline$ -- 284
+num.names$ -- 55
+pop$ -- 627
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 343
+stack$ -- 0
+substring$ -- 5983
+swap$ -- 1120
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 343
+width$ -- 56
+write$ -- 604
+(There were 8 error messages)

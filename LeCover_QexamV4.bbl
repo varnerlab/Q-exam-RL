@@ -1,0 +1,429 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Krug:2000aa}
+Krug EG, Sharma GK, Lozano R (2000) The global burden of injuries.
+\newblock Am J Public Health 90: 523-6.
+\bibAnnoteFile{Krug:2000aa}
+
+\bibitem{Sauaia:1995aa}
+Sauaia A, Moore FA, Moore EE, Moser KS, Brennan R, et~al. (1995) Epidemiology
+  of trauma deaths: a reassessment.
+\newblock J Trauma 38: 185-93.
+\bibAnnoteFile{Sauaia:1995aa}
+
+\bibitem{Esmon:2005aa}
+Esmon CT (2005) The interactions between inflammation and coagulation.
+\newblock Br J Haematol 131: 417-30.
+\bibAnnoteFile{Esmon:2005aa}
+
+\bibitem{Sauaia:1994aa}
+Sauaia A, Moore FA, Moore EE, Haenel JB, Read RA, et~al. (1994) Early
+  predictors of postinjury multiple organ failure.
+\newblock Arch Surg 129: 39-45.
+\bibAnnoteFile{Sauaia:1994aa}
+
+\bibitem{Luan:2007aa}
+Luan D, Zai M, Varner JD (2007) Computationally derived points of fragility of
+  a human cascade are consistent with current therapeutic strategies.
+\newblock PLoS Comput Biol 3: e142.
+\bibAnnoteFile{Luan:2007aa}
+
+\bibitem{Luan:2010aa}
+Luan D, Szlam F, Tanaka KA, Barie PS, Varner JD (2010) Ensembles of uncertain
+  mathematical models can identify network response to therapeutic
+  interventions.
+\newblock Mol Biosyst 6: 2272-86.
+\bibAnnoteFile{Luan:2010aa}
+
+\bibitem{pr3010178}
+Sagar A, Varner JD (2015) Dynamic modeling of the human coagulation cascade
+  using reduced order effective kinetic models.
+\newblock Processes 3: 178.
+\bibAnnoteFile{pr3010178}
+
+\bibitem{Szlam:2010aa}
+Szlam F, Luan D, Bolliger D, Szlam AD, Levy JH, et~al. (2010) Anti-factor ixa
+  aptamer reduces propagation of thrombin generation in plasma anticoagulated
+  with warfarin.
+\newblock Thromb Res 125: 432-7.
+\bibAnnoteFile{Szlam:2010aa}
+
+\bibitem{Rice:2016aa}
+Rice NT, Szlam F, Varner JD, Bernstein PS, Szlam AD, et~al. (2016) Differential
+  contributions of intrinsic and extrinsic pathways to thrombin generation in
+  adult, maternal and cord plasma samples.
+\newblock PLoS One 11: e0154127.
+\bibAnnoteFile{Rice:2016aa}
+
+\bibitem{Rittirsch:2008aa}
+Rittirsch D, Flierl MA, Ward PA (2008) Harmful molecular mechanisms in sepsis.
+\newblock Nat Rev Immunol 8: 776-87.
+\bibAnnoteFile{Rittirsch:2008aa}
+
+\bibitem{GOLDHABER2006}
+Goldhaber SZ, Colman RW, Clowes AW, editors (2006) {Hemostasis and Thrombosis:
+  Basic Principles and Clinical Practice}.
+\newblock Lippincott Williams and Wilkins.
+\bibAnnoteFile{GOLDHABER2006}
+
+\bibitem{Brummel:2002aa}
+Brummel KE, Paradis SG, Butenas S, Mann KG (2002) Thrombin functions during
+  tissue factor-induced blood coagulation.
+\newblock Blood 100: 148-52.
+\bibAnnoteFile{Brummel:2002aa}
+
+\bibitem{MANN1990}
+Mann K, Nesheim M, Church W, Haley P, Krishnaswamy S (1990) Surface-dependent
+  reactions of vitamin k-dependent enzyme complexes.
+\newblock Blood 76: 1-16.
+\bibAnnoteFile{MANN1990}
+
+\bibitem{ROBERTS1998}
+Roberts H, Monroe D, Oliver J, Chang J, Hoffman M (1998) Newer concepts of
+  blood coagulation.
+\newblock Haemophilia 4: 331-334.
+\bibAnnoteFile{ROBERTS1998}
+
+\bibitem{MANN1999}
+Mann K (1999) Biochemistry and physiology of blood coagulation.
+\newblock Thromb Haemost 82: 165-174.
+\bibAnnoteFile{MANN1999}
+
+\bibitem{Butenas:2002aa}
+Butenas S, Mann KG (2002) Blood coagulation.
+\newblock Biochemistry (Mosc) 67: 3-12.
+\bibAnnoteFile{Butenas:2002aa}
+
+\bibitem{Tanaka:2009wo}
+Tanaka KA, Key NS, Levy JH (2009) Blood coagulation: hemostasis and thrombin
+  regulation.
+\newblock Anesth Analg 108: 1433-46.
+\bibAnnoteFile{Tanaka:2009wo}
+
+\bibitem{Chapin:2015aa}
+Chapin JC, Hajjar KA (2015) Fibrinolysis and the control of blood coagulation.
+\newblock Blood Rev 29: 17-24.
+\bibAnnoteFile{Chapin:2015aa}
+
+\bibitem{Khanin:1989aa}
+Khanin MA, Semenov VV (1989) A mathematical model of the kinetics of blood
+  coagulation.
+\newblock J Theor Biol 136: 127-34.
+\bibAnnoteFile{Khanin:1989aa}
+
+\bibitem{Willems:1991aa}
+Willems GM, Lindhout T, Hermens WT, Hemker HC (1991) Simulation model for
+  thrombin generation in plasma.
+\newblock Haemostasis 21: 197-207.
+\bibAnnoteFile{Willems:1991aa}
+
+\bibitem{Baldwin:1994aa}
+Baldwin SA, Basmadjian D (1994) A mathematical model of thrombin production in
+  blood coagulation, part i: The sparsely covered membrane case.
+\newblock Ann Biomed Eng 22: 357-70.
+\bibAnnoteFile{Baldwin:1994aa}
+
+\bibitem{Leipold:1995aa}
+Leipold RJ, Bozarth TA, Racanelli AL, Dicker IB (1995) Mathematical model of
+  serine protease inhibition in the tissue factor pathway to thrombin.
+\newblock J Biol Chem 270: 25383-7.
+\bibAnnoteFile{Leipold:1995aa}
+
+\bibitem{Kuharsky:2001aa}
+Kuharsky AL, Fogelson AL (2001) Surface-mediated control of blood coagulation:
+  the role of binding site densities and platelet deposition.
+\newblock Biophys J 80: 1050-74.
+\bibAnnoteFile{Kuharsky:2001aa}
+
+\bibitem{Jones:1994aa}
+Jones KC, Mann KG (1994) A model for the tissue factor pathway to thrombin. ii.
+  a mathematical simulation.
+\newblock J Biol Chem 269: 23367-73.
+\bibAnnoteFile{Jones:1994aa}
+
+\bibitem{Hockin:2002aa}
+Hockin MF, Jones KC, Everse SJ, Mann KG (2002) A model for the stoichiometric
+  regulation of blood coagulation.
+\newblock J Biol Chem 277: 18322-33.
+\bibAnnoteFile{Hockin:2002aa}
+
+\bibitem{Butenas:2004aa}
+Butenas S, Orfeo T, Gissel MT, Brummel KE, Mann KG (2004) The significance of
+  circulating factor ixa in blood.
+\newblock J Biol Chem 279: 22875-82.
+\bibAnnoteFile{Butenas:2004aa}
+
+\bibitem{Lo:2005aa}
+Lo K, Denney WS, Diamond SL (2005) Stochastic modeling of blood coagulation
+  initiation.
+\newblock Pathophysiol Haemost Thromb 34: 80-90.
+\bibAnnoteFile{Lo:2005aa}
+
+\bibitem{Chatterjee:2010aa}
+Chatterjee MS, Denney WS, Jing H, Diamond SL (2010) Systems biology of
+  coagulation initiation: kinetics of thrombin generation in resting and
+  activated human blood.
+\newblock PLoS Comput Biol 6.
+\bibAnnoteFile{Chatterjee:2010aa}
+
+\bibitem{Mitrophanov:2014aa}
+Mitrophanov AY, Wolberg AS, Reifman J (2014) Kinetic model facilitates analysis
+  of fibrin generation and its modulation by clotting factors: implications for
+  hemostasis-enhancing therapies.
+\newblock Mol Biosyst 10: 2347-57.
+\bibAnnoteFile{Mitrophanov:2014aa}
+
+\bibitem{Stalker:2013aa}
+Stalker TJ, Traxler EA, Wu J, Wannemacher KM, Cermignano SL, et~al. (2013)
+  Hierarchical organization in the hemostatic response and its relationship to
+  the platelet-signaling network.
+\newblock Blood 121: 1875-85.
+\bibAnnoteFile{Stalker:2013aa}
+
+\bibitem{Leiderman:2014aa}
+Leiderman K, Fogelson A (2014) An overview of mathematical modeling of thrombus
+  formation under flow.
+\newblock Thromb Res 133 Suppl 1: S12-4.
+\bibAnnoteFile{Leiderman:2014aa}
+
+\bibitem{Bannish:2014ab}
+Bannish BE, Keener JP, Fogelson AL (2014) Modelling fibrinolysis: a 3d
+  stochastic multiscale model.
+\newblock Math Med Biol 31: 17-44.
+\bibAnnoteFile{Bannish:2014ab}
+
+\bibitem{Voronov:2013aa}
+Voronov RS, Stalker TJ, Brass LF, Diamond SL (2013) Simulation of intrathrombus
+  fluid and solute transport using in vivo clot structures with single platelet
+  resolution.
+\newblock Ann Biomed Eng 41: 1297-307.
+\bibAnnoteFile{Voronov:2013aa}
+
+\bibitem{Atkin:2014}
+Papadopoulos K, Gavaises M, Atkin C (2014) A simplified mathematical model for
+  thrombin generation.
+\newblock Med Eng and Phys 36: 196-204.
+\bibAnnoteFile{Atkin:2014}
+
+\bibitem{Gerlowski:1983aa}
+Gerlowski LE, Jain RK (1983) Physiologically based pharmacokinetic modeling:
+  principles and applications.
+\newblock J Pharm Sci 72: 1103-27.
+\bibAnnoteFile{Gerlowski:1983aa}
+
+\bibitem{ho2005mathematical}
+Ho AM, Dion PW, Cheng CA, Karmakar MK, et~al. (2005) A mathematical model for
+  fresh frozen plasma transfusion strategies during major trauma resuscitation
+  with ongoing hemorrhage.
+\newblock Canadian journal of surgery 48: 470.
+\bibAnnoteFile{ho2005mathematical}
+
+\bibitem{hirshberg2003minimizing}
+Hirshberg A, Dugas M, Banez EI, Scott BG, Wall~Jr MJ, et~al. (2003) Minimizing
+  dilutional coagulopathy in exsanguinating hemorrhage: a computer simulation.
+\newblock Journal of Trauma and Acute Care Surgery 54: 454--463.
+\bibAnnoteFile{hirshberg2003minimizing}
+
+\bibitem{simpson1996computer}
+Simpson S, Menezes G, Mardel S, Kelly S, White R, et~al. (1996) A computer
+  model of major haemorrhage and resuscitation.
+\newblock Medical engineering \& physics 18: 339--343.
+\bibAnnoteFile{simpson1996computer}
+
+\bibitem{reisner2013computational}
+Reisner AT, Heldt T (2013) A computational model of hemorrhage and dehydration
+  suggests a pathophysiological mechanism: Starling-mediated protein trapping.
+\newblock American Journal of Physiology-Heart and Circulatory Physiology 304:
+  H620--H631.
+\bibAnnoteFile{reisner2013computational}
+
+\bibitem{olufsen2006modeling}
+Olufsen MS, Tran HT, Ottesen JT, Lipsitz LA, Novak V, et~al. (2006) Modeling
+  baroreflex regulation of heart rate during orthostatic stress.
+\newblock American Journal of Physiology-Regulatory, Integrative and
+  Comparative Physiology 291: R1355--R1368.
+\bibAnnoteFile{olufsen2006modeling}
+
+\bibitem{ottesen1997modelling}
+Ottesen JT (1997) Modelling of the baroreflex-feedback mechanism with
+  time-delay.
+\newblock Journal of mathematical biology 36: 41--63.
+\bibAnnoteFile{ottesen1997modelling}
+
+\bibitem{olufsen2008modeling}
+Olufsen MS, Alston AV, Tran HT, Ottesen JT, Novak V (2008) Modeling heart rate
+  regulation—part i: sit-to-stand versus head-up tilt.
+\newblock Cardiovascular Engineering 8: 73--87.
+\bibAnnoteFile{olufsen2008modeling}
+
+\bibitem{olufsen2013practical}
+Olufsen MS, Ottesen JT (2013) A practical approach to parameter estimation
+  applied to model predicting heart rate regulation.
+\newblock Journal of mathematical biology 67: 39--68.
+\bibAnnoteFile{olufsen2013practical}
+
+\bibitem{olshansky2008parasympathetic}
+Olshansky B, Sabbah HN, Hauptman PJ, Colucci WS (2008) Parasympathetic nervous
+  system and heart failure pathophysiology and potential implications for
+  therapy.
+\newblock Circulation 118: 863--871.
+\bibAnnoteFile{olshansky2008parasympathetic}
+
+\bibitem{negative1999reflexes}
+NEGATIVE ABAA (1999) Reflexes that control cardiovascular function .
+\bibAnnoteFile{negative1999reflexes}
+
+\bibitem{morad2015time}
+Morad HO, Belete SC, Read T, Shaw AM (2015) Time-course analysis of c3a and c5a
+  quantifies the coupling between the upper and terminal complement pathways in
+  vitro.
+\newblock Journal of immunological methods 427: 13--18.
+\bibAnnoteFile{morad2015time}
+
+\bibitem{markiewski2007complement}
+Markiewski MM, Nilsson B, Ekdahl KN, Mollnes TE, Lambris JD (2007) Complement
+  and coagulation: strangers or partners in crime?
+\newblock Trends in immunology 28: 184--192.
+\bibAnnoteFile{markiewski2007complement}
+
+\bibitem{peerschke2008platelet}
+Peerschke EI, Yin W, Ghebrehiwet B (2008) Platelet mediated complement
+  activation.
+\newblock In: Current Topics in Complement II, Springer. pp. 77--87.
+\bibAnnoteFile{peerschke2008platelet}
+
+\bibitem{Johnson:2016aa}
+Johnson AEW, Pollard TJ, Shen L, Lehman LWH, Feng M, et~al. (2016) Mimic-iii, a
+  freely accessible critical care database.
+\newblock Sci Data 3: 160035.
+\bibAnnoteFile{Johnson:2016aa}
+
+\bibitem{foex1999systemic}
+Foex B (1999) Systemic responses to trauma.
+\newblock British medical bulletin 55: 726--743.
+\bibAnnoteFile{foex1999systemic}
+
+\bibitem{jacobsen1990cardiovascular}
+Jacobsen J, S{\o}felt S, Sheikh S, Warberg J, Secher N (1990) Cardiovascular
+  and endocrine responses to haemorrhage in the pig.
+\newblock Acta physiologica scandinavica 138: 167--173.
+\bibAnnoteFile{jacobsen1990cardiovascular}
+
+\bibitem{bassen2016jupoets}
+Bassen D, Vilkhovoy M, Minot M, Butcher JT, Varner JD (2016) Jupoets: A
+  constrained multiobjective optimization approach to estimate biochemical
+  model ensembles in the julia programming language.
+\newblock bioRxiv : 056044.
+\bibAnnoteFile{bassen2016jupoets}
+
+\bibitem{chowienczyk1994blood}
+Chowienczyk P, Cockcroft J, Ritter J (1994) Blood flow responses to
+  intra-arterial acetylcholine in man: effects of basal flow and conduit vessel
+  length.
+\newblock Clinical Science 87: 45--51.
+\bibAnnoteFile{chowienczyk1994blood}
+
+\bibitem{dora1983effect}
+D{\'o}ra E, Kov{\'a}ch AG (1983) Effect of topically administered epinephrine,
+  norepinephrine, and acetylcholine on cerebrocortical circulation and the
+  nad/nadh redox state.
+\newblock Journal of Cerebral Blood Flow \& Metabolism 3: 161--169.
+\bibAnnoteFile{dora1983effect}
+
+\bibitem{varnerlab_2015_32628}
+Varnerlab (2015).
+\newblock {KwateeServer: Kwatee: A Code Generation System for Biochemical
+  Models in the Julia Programming Language}.
+\newblock \doi{10.5281/zenodo.32628}.
+\newblock \urlprefix\url{http://dx.doi.org/10.5281/zenodo.32628}.
+\bibAnnoteFile{varnerlab_2015_32628}
+
+\bibitem{esmon1989roles}
+Esmon CT (1989) The roles of protein c and thrombomodulin in the regulation of
+  blood coagulation.
+\newblock J Biol Chem 264: 4743--4746.
+\bibAnnoteFile{esmon1989roles}
+
+\bibitem{sagar2015dynamic}
+Sagar A, Varner JD (2015) Dynamic modeling of the human coagulation cascade
+  using reduced order effective kinetic models.
+\newblock Processes 3: 178--203.
+\bibAnnoteFile{sagar2015dynamic}
+
+\bibitem{menezes1998computer}
+Menezes KG (1998) A computer model of acute haemorrhage and resuscitation.
+\newblock Ph.D. thesis, UNIVERSITY OF ABERDEEN (UNITED KINGDOM).
+\bibAnnoteFile{menezes1998computer}
+
+\bibitem{johansson2011disseminated}
+Johansson PI, S{\o}rensen AM, Perner A, Welling KL, Wanscher M, et~al. (2011)
+  Disseminated intravascular coagulation or acute coagulopathy of trauma shock
+  early after trauma? an observational study.
+\newblock Critical Care 15: 1.
+\bibAnnoteFile{johansson2011disseminated}
+
+\bibitem{price2003modeling}
+Price PS, Conolly RB, Chaisson CF, Gross EA, Young JS, et~al. (2003) Modeling
+  interindividual variation in physiological factors used in pbpk models of
+  humans.
+\newblock Critical reviews in toxicology 33: 469--503.
+\bibAnnoteFile{price2003modeling}
+
+\bibitem{dehghan2009association}
+Dehghan A, Yang Q, Peters A, Basu S, Bis JC, et~al. (2009) Association of novel
+  genetic loci with circulating fibrinogen levels a genome-wide association
+  study in 6 population-based cohorts.
+\newblock Circulation: Cardiovascular Genetics 2: 125--133.
+\bibAnnoteFile{dehghan2009association}
+
+\bibitem{russell2003genetics}
+Russell JA (2003) Genetics of coagulation factors in acute lung injury.
+\newblock Critical care medicine 31: S243--S247.
+\bibAnnoteFile{russell2003genetics}
+
+\bibitem{tang2012genetic}
+Tang W, Schwienbacher C, Lopez LM, Ben-Shlomo Y, Oudot-Mellakh T, et~al. (2012)
+  Genetic associations for activated partial thromboplastin time and
+  prothrombin time, their gene expression profiles, and risk of coronary artery
+  disease.
+\newblock The American Journal of Human Genetics 91: 152--162.
+\bibAnnoteFile{tang2012genetic}
+
+\bibitem{lane1996inherited}
+Lane DA, Mannucci PM, Bauer K, Bertina R, Bochkov NP, et~al. (1996) Inherited
+  thrombophilia: part i.
+\newblock Thromb Haemost 76: 651--662.
+\bibAnnoteFile{lane1996inherited}
+
+\bibitem{nanjappa2013plasma}
+Nanjappa V, Thomas JK, Marimuthu A, Muthusamy B, Radhakrishnan A, et~al. (2013)
+  Plasma proteome database as a resource for proteomics research: 2014 update.
+\newblock Nucleic acids research : gkt1251.
+\bibAnnoteFile{nanjappa2013plasma}
+
+\bibitem{holcomb2008increased}
+Holcomb J, Wade C, Michalek J, Chisholm G, Zarzabal L, et~al. (2008) Increased
+  plasma and platelet to red blood cell ratios improves outcome in 466
+  massively transfused civilian trauma patients.
+\newblock Annals of surgery 248: 447.
+\bibAnnoteFile{holcomb2008increased}
+
+\bibitem{hunt2014bleeding}
+Hunt BJ (2014) Bleeding and coagulopathies in critical care.
+\newblock New England Journal of Medicine 370: 847--859.
+\bibAnnoteFile{hunt2014bleeding}
+
+\end{thebibliography}

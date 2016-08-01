@@ -35,6 +35,10 @@ Repeated entry---line 1057 of file lecover-q-ref.bib
  : @article{markiewski2007complement
  :                                  ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1068 of file lecover-q-ref.bib
+ : @article{thomas2008saphir
+ :                          ,
+I'm skipping whatever remains of this entry
 Database file #2: References_v1.bib
 Repeated entry---line 315 of file References_v1.bib
  : @misc{varnerlab_2015_32628
@@ -48,45 +52,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 `journal' is a missing field, not a string, for entry negative1999reflexes
 while executing---line 2643 of file plos2009.bst
 Warning--empty journal in negative1999reflexes
-You've used 67 entries,
+You've used 69 entries,
             2441 wiz_defined-function locations,
-            1013 strings with 18789 characters,
-and the built_in function-call counts, 55721 in all, are:
-= -- 5141
-> -- 969
-< -- 1
-+ -- 484
-- -- 242
-* -- 4782
-:= -- 6712
-add.period$ -- 136
-call.type$ -- 67
-change.case$ -- 67
+            1024 strings with 19459 characters,
+and the built_in function-call counts, 58704 in all, are:
+= -- 5433
+> -- 1005
+< -- 2
++ -- 502
+- -- 251
+* -- 5054
+:= -- 7051
+add.period$ -- 141
+call.type$ -- 69
+change.case$ -- 71
 chr.to.int$ -- 0
-cite$ -- 135
-duplicate$ -- 5523
-empty$ -- 5763
-format.name$ -- 299
-if$ -- 12356
+cite$ -- 139
+duplicate$ -- 5827
+empty$ -- 6082
+format.name$ -- 310
+if$ -- 13032
 int.to.chr$ -- 0
-int.to.str$ -- 67
-missing$ -- 706
-newline$ -- 351
-num.names$ -- 68
-pop$ -- 778
+int.to.str$ -- 69
+missing$ -- 731
+newline$ -- 361
+num.names$ -- 70
+pop$ -- 815
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 462
+skip$ -- 493
 stack$ -- 0
-substring$ -- 7950
-swap$ -- 1407
-text.length$ -- 1
+substring$ -- 8438
+swap$ -- 1462
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 435
-width$ -- 69
-write$ -- 748
-(There were 11 error messages)
+while$ -- 450
+width$ -- 71
+write$ -- 771
+(There were 12 error messages)
